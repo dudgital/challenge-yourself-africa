@@ -1,4 +1,4 @@
-# I've joined the #ChallengeYourselfIn100Days Challenge
+# I have accepted the #ChallengeYourselfAfrica mission
 
 #ChallengeYourselfAfrica Project was inspired by [Alex](https://github.com/ka11away) the creator of [100daysofcode.com](http://100daysofcode.com/). Our aim is not to reinvent what he's done but to create a structured coding task for interested persons to complete using any language of their choice.
 
