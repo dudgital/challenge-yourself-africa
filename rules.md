@@ -7,7 +7,7 @@
 June 1st, 2021. [PUT YOUR DATE HERE]
 
 ## Additional Rules
-1. I will tweet about my progress every day -> using the hashtag #ChallengeYourselfIn100Days #100DaysOfCode
+1. I will tweet about my progress every day -> using the hashtag #ChallengeYourselfAfrica #100DaysOfCode
 
 2. I will push code to GitHub every day so that anyone can see my progress.
 
