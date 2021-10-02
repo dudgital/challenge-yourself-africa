@@ -1,4 +1,4 @@
-# Rules of the Challenge Yourself In 100 Days
+# Rules of the Challenge Yourself Africa
 
 ## Main Commitment
 ### *I will code for at least an hour every day for the next 100 days.*
