@@ -1,6 +1,6 @@
 # Welcome To The #ChallengeYourselfAfrica Mission Instructions Repo
 
-#ChallengeYourselfAfrica Project was inspired by [Alex](https://github.com/ka11away) the creator of [100daysofcode.com](http://100daysofcode.com/). Our aim is not to reinvent what he's done but to create structured missions {coding, photography, marketing, SEO, etc} for interested people to complete.
+#ChallengeYourselfAfrica Project was inspired by [Alex](https://github.com/ka11away) the creator of [100daysofcode.com](http://100daysofcode.com/). Our aim is not to reinvent what he's done but to create structured missions on {coding, photography, marketing, SEO, etc} for interested people to complete.
 
 ## Contents
 
@@ -15,10 +15,6 @@ This project is not translated to any language other than English. If you want t
 ## Your Mission, Should You Choose to Accept:
 
 1. Check out the [Official Site](https://dudgital.com/challenge-yourself-africa) for the #ChallengeYourselfAfrica movement. 
-<!-- Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://www.100daysofcode.com/slack) is a invite link to the 100DaysOfCode Slack channel -->
-    
-<!-- 1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) -->
 
 2.  **Use the [link](https://github.com/) to view and clone your classified mission files.**
 
@@ -42,11 +38,6 @@ This project is not translated to any language other than English. If you want t
 ## Want other challenges?
 
 Check out [the #ChallengeYourselfAfrica Project](https://dudgital.com/). Remember that the best time to start is always NOW and you can only become better when you learn.
-<!-- 
-I recommend that you commit to no more than 2-3 challenges at a time, ideally 
-
-2. If you are doing the #100DaysOfCode which involves a lot of mental activity, try the [#100DaysOfHealth](http://dudgital.com/where-x-is/health/), or [#100DaysOfFitness](http://dudgital.com/challenges/) challenges. There is so much more on the site, check all of them out and choose the ones you want to acquire! Languages, writing, meditation, journaling, cooking, and more! 
--->
 
 ## Note
 
