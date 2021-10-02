@@ -1,4 +1,4 @@
-# I have accepted the #ChallengeYourselfAfrica mission
+# Welcome To The #ChallengeYourselfAfrica Mission Instructions Repo
 
 #ChallengeYourselfAfrica Project was inspired by [Alex](https://github.com/ka11away) the creator of [100daysofcode.com](http://100daysofcode.com/). Our aim is not to reinvent what he's done but to create structured missions {coding, photography, marketing, SEO, etc} for interested people to complete.
 
@@ -20,7 +20,7 @@ This project is not translated to any language other than English. If you want t
     
 <!-- 1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) -->
 
-2.  **Use the [link](https://github.com/) to view your classified mission files.**
+2.  **Use the [link](https://github.com/) to view and clone your classified mission files.**
 
 3.  **Code minimum an hour every day for the next 100 days.**
 
