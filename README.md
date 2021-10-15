@@ -16,7 +16,7 @@ This project is not translated to any language other than English. If you want t
 
 1. Check out the [Official Site](https://dudgital.com/challenge-yourself-africa) for the #ChallengeYourselfAfrica movement. 
 
-2.  **Use the [link](https://github.com/) to view and clone your classified mission files.**
+2.  **Use the [link](https://github.com/dudgital/challenge-yourself-africa-projects) to view and clone your classified mission files.**
 
 3.  **Code minimum an hour every day for the next 100 days.**
 
